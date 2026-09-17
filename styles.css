@@ -7,8 +7,21 @@
     color: #f9faf8;
 }
 
-main-text {
+#hero h1 {
     font-size: 48px;
     color:#f9faf8;
     font-weight: 900;
+}
+
+#hero p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    background-color: #3882f6;
+}
+
+.section1 {
+    background-color: #1f2937;
 }
